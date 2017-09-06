@@ -1,0 +1,95 @@
+14:47:07.308 [main] INFO  com.thtn.application.Main - Testing log
+14:53:27.521 [main] INFO  com.thtn.application.Main - Testing log
+14:53:27.708 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: PersistenceUnit
+	...]
+14:53:27.856 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.2.10.Final}
+14:53:27.858 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+14:53:27.940 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+14:53:28.120 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:53:28.121 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [null] at URL [jdbc:h2:./jpa]
+14:53:28.121 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=sa, password=****}
+14:53:28.121 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+14:53:28.125 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:53:28.386 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+14:53:29.113 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@47dbb1e2] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+14:53:29.116 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@773f7880] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+14:53:29.120 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@42a9e5d1'
+14:54:26.192 [main] INFO  com.thtn.application.Main - Testing log
+14:54:26.365 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: PersistenceUnit
+	...]
+14:54:26.513 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.2.10.Final}
+14:54:26.518 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+14:54:26.567 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+14:54:26.713 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:54:26.714 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [null] at URL [jdbc:h2:./jpa]
+14:54:26.714 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=sa, password=****}
+14:54:26.715 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+14:54:26.718 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:54:29.092 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+14:54:29.796 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@773cbf4f] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+14:54:29.803 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7adf16aa] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+14:54:29.806 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@73c60324'
+14:54:29.901 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:./jpa]
+14:57:40.248 [main] INFO  com.thtn.application.Main - Testing log
+14:57:40.418 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: PersistenceUnit
+	...]
+14:57:40.566 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.2.10.Final}
+14:57:40.568 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+14:57:40.617 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+14:57:40.764 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:57:40.765 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [null] at URL [jdbc:h2:./jpa]
+14:57:40.765 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=sa, password=****}
+14:57:40.765 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+14:57:40.768 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:57:41.037 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+14:57:41.723 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5b080f3a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+14:57:41.730 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16f7b4af] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+14:57:41.733 [main] INFO  o.h.t.s.internal.SchemaCreatorImpl - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@58bf8650'
+14:57:41.866 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:./jpa]
+15:00:33.043 [main] INFO  com.thtn.application.Main - Testing log
+15:00:33.222 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: PersistenceUnit
+	...]
+15:00:33.413 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.2.10.Final}
+15:00:33.415 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+15:00:33.467 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+15:00:33.617 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:00:33.618 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [null] at URL [jdbc:h2:./jpa]
+15:00:33.618 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=sa, password=****}
+15:00:33.619 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+15:00:33.623 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:00:33.891 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+15:00:34.705 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:./jpa]
+15:01:24.988 [main] INFO  com.thtn.application.Main - Testing log
+15:01:25.160 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: PersistenceUnit
+	...]
+15:01:25.309 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.2.10.Final}
+15:01:25.310 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+15:01:25.360 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+15:01:25.503 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:01:25.504 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [null] at URL [jdbc:h2:./jpa]
+15:01:25.504 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=sa, password=****}
+15:01:25.504 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+15:01:25.508 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:01:25.768 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+15:01:26.453 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@470a696f] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+15:01:26.628 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:./jpa]
+15:05:44.759 [main] INFO  com.thtn.application.Main - Testing log
+15:05:44.931 [main] INFO  o.h.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [
+	name: PersistenceUnit
+	...]
+15:05:45.082 [main] INFO  org.hibernate.Version - HHH000412: Hibernate Core {5.2.10.Final}
+15:05:45.083 [main] INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+15:05:45.132 [main] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+15:05:45.279 [main] WARN  o.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:05:45.280 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001005: using driver [null] at URL [jdbc:h2:./jpa]
+15:05:45.280 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {user=sa, password=****}
+15:05:45.280 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+15:05:45.283 [main] INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:05:45.549 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+15:05:46.251 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@292d1c71] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+15:05:46.434 [main] INFO  o.hibernate.orm.connections.pooling - HHH10001008: Cleaning up connection pool [jdbc:h2:./jpa]
